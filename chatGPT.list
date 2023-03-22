@@ -4,5 +4,5 @@ DOMAIN-SUFFIX,challenges.cloudflare.com
 DOMAIN-SUFFIX,chat.openai.com
 DOMAIN-SUFFIX,auth0.openai.com
 DOMAIN-SUFFIX,ai.com
-DOMAIN-SUFFIX,www.bing.com
-DOMAIN-SUFFIX,bard.google.com
+DOMAIN,www.bing.com
+DOMAIN,bard.google.com

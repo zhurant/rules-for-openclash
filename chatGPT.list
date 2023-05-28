@@ -6,3 +6,4 @@ DOMAIN-SUFFIX,auth0.openai.com
 DOMAIN-SUFFIX,ai.com
 DOMAIN,www.bing.com
 DOMAIN,bard.google.com
+DOMAIN-SUFFIX,sentry.io

@@ -7,3 +7,7 @@ DOMAIN-SUFFIX,ai.com
 DOMAIN,www.bing.com
 DOMAIN,bard.google.com
 DOMAIN-SUFFIX,sentry.io
+DOMAIN-KEYWORD,openai
+DOMAIN-SUFFIX,openaiapi-site.azureedge.net
+DOMAIN-SUFFIX,stripe.com
+DOMAIN-SUFFIX,paypal.com

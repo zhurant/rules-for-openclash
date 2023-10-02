@@ -1,6 +1,7 @@
 #CLASH规则
 DOMAIN-SUFFIX,dmtn.tv
 DOMAIN-SUFFIX,venom-vip.com
+DOMAIN-SUFFIX,nxtxone.com
 IP-CIDR,37.49.0.0/12,no-resolve
 IP-CIDR,45.65.0.0/12,no-resolve
 IP-CIDR,45.143.0.0/12,no-resolve

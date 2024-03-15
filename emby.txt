@@ -1,3 +1,2 @@
 payload:
- - DOMAIN-SUFFIX,misty.ltd
  - DOMAIN-SUFFIX,odysseyplus.site

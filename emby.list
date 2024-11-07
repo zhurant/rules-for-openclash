@@ -1,2 +1,8 @@
 # emby
 DOMAIN-SUFFIX,odysseyplus.site
+# > News
+DOMAIN,news-edge.apple.com
+DOMAIN,news-events.apple.com
+DOMAIN,apple.comscoreresearch.com
+# News+ Audio
+URL-REGEX,^https?:\/\/news-assets\.apple\.com\/(audio-narrative|podcast\/audio)\/.*

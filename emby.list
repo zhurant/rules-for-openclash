@@ -4,7 +4,7 @@ DOMAIN-SUFFIX,odysseyplus.site
 IP-CIDR,168.138.0.0/12,no-resolve
 DOMAIN-SUFFIX,haycker.eu.org
 # macmini
-IP-CIDR,192.168.110.0/24,DEVICE:macserver
+IP-CIDR,192.168.110.0/24,DEVICE: MACSERVER
 # > News
 DOMAIN,news-edge.apple.com
 DOMAIN,news-events.apple.com

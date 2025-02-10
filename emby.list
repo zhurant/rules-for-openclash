@@ -1,6 +1,6 @@
 # emby
 DOMAIN-SUFFIX,odysseyplus.site
 # iptv
-IP-CIDR,168.138.0.0/12,no-resolve
+IP-CIDR,193.108.0.0/12,no-resolve
 DOMAIN-SUFFIX,haycker.eu.org
 DOMAIN-SUFFIX,9528.eu.org

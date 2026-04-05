@@ -7,3 +7,6 @@ DOMAIN-SUFFIX,gitflic.ru
 DOMAIN-SUFFIX,sofascore.com
 # plex 
 DOMAIN-SUFFIX,plex.tv
+DOMAIN-SUFFIX,*.plex.tv
+DOMAIN-SUFFIX,*.plex.direct
+DOMAIN-SUFFIX,metadata.provider.plex.tv

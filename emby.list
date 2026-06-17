@@ -7,3 +7,16 @@ DOMAIN-SUFFIX,haycker.eu.org
 DOMAIN-SUFFIX,9528.eu.org
 DOMAIN-SUFFIX,ptv.lol
 DOMAIN-SUFFIX,live.ottiptv.cc
+# > 致富证券
+DOMAIN-SUFFIX,chiefgroup.com.hk
+DOMAIN-SUFFIX,chieftrade.com
+DOMAIN-SUFFIX,chiefsec.com.hk
+DOMAIN-SUFFIX,cm-chiefgroup.com
+DOMAIN-SUFFIX,chieftrader1979.com
+DOMAIN-SUFFIX,cg1979.com
+DOMAIN-SUFFIX,toprader1979.com
+DOMAIN-SUFFIX,zft2000.com
+DOMAIN-SUFFIX,zft2025.com
+DOMAIN-SUFFIX,toptrader1979.com
+IP-CIDR,189.1.244.101/32
+IP-CIDR,183.87.34.6/32

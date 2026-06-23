@@ -30,3 +30,4 @@ DOMAIN-KEYWORD,thinkorswim
 # Interactive Brokers (盈透证券)
 DOMAIN-KEYWORD,interactivebrokers
 DOMAIN-SUFFIX,ibkr
+DOMAIN-SUFFIX,ibllc.com

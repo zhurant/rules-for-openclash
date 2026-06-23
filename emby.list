@@ -21,3 +21,12 @@ DOMAIN-SUFFIX,zft2025.com
 DOMAIN-SUFFIX,toptrader1979.com
 IP-CIDR,189.1.244.101/32
 IP-CIDR,183.87.34.6/32
+# Charles Schwab (嘉信理财)
+DOMAIN-KEYWORD,schwab
+
+# TD Ameritrade (Thinkorswim)
+DOMAIN-KEYWORD,thinkorswim
+
+# Interactive Brokers (盈透证券)
+DOMAIN-KEYWORD,interactivebrokers
+DOMAIN-SUFFIX,ibkr

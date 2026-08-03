@@ -1,0 +1,41 @@
+#!name=FotMob AdBlock
+#!desc=Block ads and trackers for FotMob app
+#!author=YourName
+#!homepage=https://github.com/YourName/Surge-Modules
+#!icon=https://www.fotmob.com/favicon.ico
+
+
+[MITM]
+
+hostname = %APPEND%
+*.fotmob.com
+
+
+[Rule]
+
+# FotMob advertising
+DOMAIN-SUFFIX,ads.fotmob.com,REJECT-TINYGIF
+
+
+# Google Ads
+DOMAIN-SUFFIX,doubleclick.net,REJECT-TINYGIF
+DOMAIN-SUFFIX,googlesyndication.com,REJECT-TINYGIF
+DOMAIN-SUFFIX,googleadservices.com,REJECT-TINYGIF
+DOMAIN-SUFFIX,google-analytics.com,REJECT
+
+
+# Firebase / Analytics
+DOMAIN-SUFFIX,app-measurement.com,REJECT
+DOMAIN-SUFFIX,crashlytics.com,REJECT
+
+
+# Attribution tracking
+DOMAIN-SUFFIX,appsflyer.com,REJECT
+DOMAIN-SUFFIX,adjust.com,REJECT
+DOMAIN-SUFFIX,branch.io,REJECT
+
+
+# Advertising networks
+DOMAIN-SUFFIX,adnxs.com,REJECT-TINYGIF
+DOMAIN-SUFFIX,adsrvr.org,REJECT-TINYGIF
+DOMAIN-SUFFIX,criteo.com,REJECT-TINYGIF
